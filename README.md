@@ -17,6 +17,9 @@ Provide `--labels_directory_name Label` when generating JSON using this project.
 This project generates base data for `info` and `licenses` keys as well as each image's `license` key.\
 I make no warranties or representations regarding the license status of each image you will use and you should verify the license for each image yourself.
 
+### Area
+Area is calculated from bounding box not from segmentation. This is needed for a few specific projects.
+
 ## Installation
 
 Clone repository

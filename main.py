@@ -67,6 +67,7 @@ def collect_images_annotations_data(obj_name_list, images_dir, labels_dir_name):
                         'image_id': image_id,
                         'category_id': obj_name_list.index(obj_class_name) + 1,
                         'iscrowd': 0,
+                        'area': float(width * height),
                         'bbox': [
                             xmin,
                             ymin,

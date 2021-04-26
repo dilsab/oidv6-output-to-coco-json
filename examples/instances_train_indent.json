@@ -5,7 +5,7 @@
         "version": "",
         "year": 2021,
         "contributor": "",
-        "data_created": "2021-04-21"
+        "data_created": "2021-04-26"
     },
     "licenses": [
         {
@@ -129,6 +129,7 @@
             "image_id": 0,
             "category_id": 1,
             "iscrowd": 0,
+            "area": 155925.0,
             "bbox": [
                 317,
                 199,
@@ -142,6 +143,7 @@
             "image_id": 1,
             "category_id": 1,
             "iscrowd": 0,
+            "area": 188788.0,
             "bbox": [
                 386,
                 268,
@@ -155,6 +157,7 @@
             "image_id": 2,
             "category_id": 1,
             "iscrowd": 0,
+            "area": 11868.0,
             "bbox": [
                 198,
                 342,
@@ -168,6 +171,7 @@
             "image_id": 2,
             "category_id": 1,
             "iscrowd": 0,
+            "area": 14706.0,
             "bbox": [
                 335,
                 321,
@@ -181,6 +185,7 @@
             "image_id": 2,
             "category_id": 1,
             "iscrowd": 0,
+            "area": 7936.0,
             "bbox": [
                 403,
                 374,
@@ -194,6 +199,7 @@
             "image_id": 2,
             "category_id": 1,
             "iscrowd": 0,
+            "area": 17958.0,
             "bbox": [
                 419,
                 470,
@@ -207,6 +213,7 @@
             "image_id": 2,
             "category_id": 1,
             "iscrowd": 0,
+            "area": 12126.0,
             "bbox": [
                 472,
                 341,
@@ -220,6 +227,7 @@
             "image_id": 2,
             "category_id": 1,
             "iscrowd": 0,
+            "area": 22176.0,
             "bbox": [
                 560,
                 401,
@@ -233,6 +241,7 @@
             "image_id": 2,
             "category_id": 1,
             "iscrowd": 0,
+            "area": 26070.0,
             "bbox": [
                 583,
                 431,
@@ -246,6 +255,7 @@
             "image_id": 3,
             "category_id": 2,
             "iscrowd": 0,
+            "area": 256626.0,
             "bbox": [
                 52,
                 324,
@@ -259,6 +269,7 @@
             "image_id": 3,
             "category_id": 2,
             "iscrowd": 0,
+            "area": 173400.0,
             "bbox": [
                 604,
                 384,
@@ -272,6 +283,7 @@
             "image_id": 4,
             "category_id": 2,
             "iscrowd": 0,
+            "area": 8910.0,
             "bbox": [
                 355,
                 701,
@@ -285,6 +297,7 @@
             "image_id": 4,
             "category_id": 2,
             "iscrowd": 0,
+            "area": 10730.0,
             "bbox": [
                 949,
                 567,
@@ -298,6 +311,7 @@
             "image_id": 5,
             "category_id": 2,
             "iscrowd": 0,
+            "area": 122484.0,
             "bbox": [
                 184,
                 60,
@@ -311,6 +325,7 @@
             "image_id": 6,
             "category_id": 3,
             "iscrowd": 0,
+            "area": 191555.0,
             "bbox": [
                 97,
                 142,
@@ -324,6 +339,7 @@
             "image_id": 6,
             "category_id": 3,
             "iscrowd": 0,
+            "area": 90596.0,
             "bbox": [
                 356,
                 581,
@@ -337,6 +353,7 @@
             "image_id": 7,
             "category_id": 3,
             "iscrowd": 0,
+            "area": 23647.0,
             "bbox": [
                 282,
                 179,
@@ -350,6 +367,7 @@
             "image_id": 7,
             "category_id": 3,
             "iscrowd": 0,
+            "area": 40365.0,
             "bbox": [
                 431,
                 21,
@@ -363,6 +381,7 @@
             "image_id": 8,
             "category_id": 3,
             "iscrowd": 0,
+            "area": 61952.0,
             "bbox": [
                 250,
                 305,
@@ -376,6 +395,7 @@
             "image_id": 8,
             "category_id": 3,
             "iscrowd": 0,
+            "area": 19000.0,
             "bbox": [
                 486,
                 424,
@@ -389,6 +409,7 @@
             "image_id": 8,
             "category_id": 3,
             "iscrowd": 0,
+            "area": 33060.0,
             "bbox": [
                 621,
                 366,
